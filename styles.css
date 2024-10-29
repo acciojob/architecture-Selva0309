@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+#First, #last{
+	width: 200px;
+	padding:5px;
+}
+#middle{
+	width:600px;
+	padding:5px;
+	align-content:center;
+}
+table, tr, td {
+	border : 2px solid black;
+	}
